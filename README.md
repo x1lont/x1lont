@@ -18,9 +18,7 @@
 
 ## About Me
 
-I'm a 15-year-old early-career developer and graphic designer who cares about clean websites, creative digital projects, and practical programming.
-
-At the moment, I’m sharpening my Python and Java skills, testing new ideas, and building projects for what’s ahead.
+I’m 15 y.o early-career developer and graphic designer who cares about clean websites, creative digital projects, and practical programming. At the moment, I’m working on sharpening my Python and Java skills, testing new ideas, and building projects for what’s ahead.
 
 - Focused on web development, programming, and digital design
 - Learning through experiments and hands-on projects
@@ -68,7 +66,6 @@ At the moment, I’m sharpening my Python and Java skills, testing new ideas, an
 <p align="left">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Web%20Development-111111?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Web Development" />
 </p>
 
 ---
