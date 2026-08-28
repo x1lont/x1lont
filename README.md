@@ -9,20 +9,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/x1lont">
-    <img src="https://komarev.com/ghpvc/?username=x1lont&label=Profile%20views&color=111111&style=flat" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=x1lont&label=Profile%20views&color=111111&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I’m 15 y.o early-career developer and graphic designer who cares about clean websites, creative digital projects, and practical programming. At the moment, I’m working on sharpening my Python and Java skills, testing new ideas, and building projects for what’s ahead.
+I'm a 15-year-old early-career developer and graphic designer who cares about clean websites, creative digital projects, and practical programming.
+
+At the moment, I’m sharpening my Python and Java skills, testing new ideas, and building projects for what’s ahead.
 
 - Focused on web development, programming, and digital design
 - Learning through experiments and hands-on projects
 - Interested in clean visuals, useful tools, and creative ideas
+- Working on Windows 11
 - Based in Russia
 
 ---
@@ -30,34 +31,31 @@ I’m 15 y.o early-career developer and graphic designer who cares about clean w
 ## Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" />
 </p>
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="48" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" height="48" />
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" height="48" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="48" />
+  <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" height="48" />
+  <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows 11" height="48" />
 </p>
+
+---
+
+## Software Hobbies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Geometry%20Dash%20Modding-111111?style=for-the-badge&logo=gamejolt&logoColor=FFFFFF" alt="Geometry Dash Modding" />
+  <img src="https://img.shields.io/badge/Minecraft%20Modding-111111?style=for-the-badge&logo=modrinth&logoColor=00AF5C" alt="Minecraft Modding" />
+</p>
+
+- Exploring **Geometry Dash modding**, including level tools, mods, and gameplay experiments
+- Learning **Minecraft modding** and experimenting with game mechanics, tools, and custom content
 
 ---
 
@@ -66,6 +64,7 @@ I’m 15 y.o early-career developer and graphic designer who cares about clean w
 <p align="left">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Web%20Development-111111?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Web Development" />
 </p>
 
 ---
