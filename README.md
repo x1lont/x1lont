@@ -16,9 +16,7 @@
 
 ## About Me
 
-I'm a 15-year-old early-career developer and graphic designer who cares about clean websites, creative digital projects, and practical programming.
-
-At the moment, I’m sharpening my Python and Java skills, testing new ideas, and building projects for what’s ahead.
+I’m 15 y.o early-career developer and graphic designer who cares about clean websites, creative digital projects, and practical programming. At the moment, I’m working on sharpening my Python and Java skills, testing new ideas, and building projects for what’s ahead.
 
 - Focused on web development, programming, and digital design
 - Learning through experiments and hands-on projects
