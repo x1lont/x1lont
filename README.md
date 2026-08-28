@@ -29,36 +29,18 @@ I’m 15 y.o early-career developer and graphic designer who cares about clean w
 ## Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" border="0" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" border="0" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" border="0" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" border="0" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" />
 </p>
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="48" border="0" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" height="48" border="0" />
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" height="48" border="0" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48" border="0" />
-  </a>
-  <a href="https://www.microsoft.com/windows/windows-11" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows 11" height="48" border="0" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="48" />
+  <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" height="48" />
+  <img src="https://skillicons.dev/icons?i=ae" alt="Adobe After Effects" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows 11" height="48" />
 </p>
 
 ---
